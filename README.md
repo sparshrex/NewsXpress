@@ -1,4 +1,4 @@
-# Cryptocurrency Tracker with React JS, Material UI and Chart JS
+# NewsWebsite Tracker with React JS, BootStrap and NewsApi
 
 #This website help you to watch and keep track of daily news.
 #You can see the different-different news from different fields as per your interest.

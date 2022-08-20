@@ -1,266 +1,45 @@
 {
     "status": "ok",
-    "totalResults": 668,
+    "totalResults": 3,
     "articles": [
-    {
-    "source": {
-    "id": null,
-    "name": "Gizmodo.com"
-    },
-    "author": "Germain Lussier",
-    "title": "Minecraft Is Jason Momoa's Next Movie Creation",
-    "description": "His career already includes ventures into Stargate, Conan the Barbarian, Game of Thrones, DC Comics, Dune, and The Fast and Furious—and now Jason Momoa is adding another major franchise to his already impressive resume: Minecraft.Read more...",
-    "url": "https://gizmodo.com/minecraft-movie-jason-momoa-starring-napoleon-dynamite-1848809445",
-    "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/d936518a90f42db2b3327639efecbc86.jpg",
-    "publishedAt": "2022-04-19T00:15:00Z",
-    "content": "His career already includes ventures into Stargate, Conan the Barbarian, Game of Thrones, DC Comics, Dune, and The Fast and Furiousand now Jason Momoa is adding another major franchise to his already… [+1861 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "MacRumors"
-    },
-    "author": "Juli Clover",
-    "title": "Apple May Have Already Inked Deal for NFL Sunday Ticket",
-    "description": "Back in July, rumors suggested that Apple was pursuing streaming rights for the National Football League's \"Sunday Ticket\" package, and as of this week, there is a report suggesting that the deal could already be done.\n\n\n\n\n\nNFL Sunday Ticket has been describe…",
-    "url": "https://www.macrumors.com/2022/04/18/apple-nfl-sunday-ticket-rumor/",
-    "urlToImage": "https://images.macrumors.com/t/8a_lL0waYMz8rAz3jMoJpJMEmaw=/1600x/article-new/2021/07/nfl-sunday-ticket-feature.jpg",
-    "publishedAt": "2022-04-19T00:17:15Z",
-    "content": "Back in July, rumors suggested that Apple was pursuing streaming rights for the National Football League's \"Sunday Ticket\" package, and as of this week, there is a report suggesting that the deal cou… [+1618 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "MarketBeat"
-    },
-    "author": "MarketBeat Staff",
-    "title": "MarketBeat Podcast: Making Money in the Red-Hot Housing Market",
-    "description": "David Auerbach is an investor in the red-hot housing market. Only active pure-play residential ETF. There are many residential ETFs, but David’s takes a unique approach, that eliminates the “noise”...",
-    "url": "https://www.marketbeat.com/originals/marketbeat-podcast-making-money-in-the-red-hot-housing-market/",
-    "urlToImage": "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-425096.jpeg",
-    "publishedAt": "2022-04-19T07:00:00Z",
-    "content": "David Auerbach is an investor in the red-hot housing market. Only active pure-play residential ETF. There are many residential ETFs, but Davids takes a unique approach, that eliminates the noise cont… [+1482 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Hipertextual"
-    },
-    "author": "Tomás Rivero",
-    "title": "¿Tienes un ‘wallet’ de criptomonedas en tu iPhone? Podría estar en grave peligro por culpa del phishing",
-    "description": "Un nuevo ataque al servicio iCloud de Apple podría poner en riesgo tus activos digitales. Según un reciente comunicado de MetaMask, uno de los servicios de wallets de criptomonedas más conocidos, una nueva vulnerabilidad podría llevar a que tus NFT y criptomo…",
-    "url": "https://hipertextual.com/2022/04/wallets-criptomonedas-icloud-activos-podrian-estar-grave-peligro",
-    "urlToImage": "https://i0.wp.com/hipertextual.com/wp-content/uploads/2022/04/MetaMask-wallet-criptomonedas-iCloud.jpg?fit=2500%2C1500&quality=50&strip=all&ssl=1",
-    "publishedAt": "2022-04-19T01:22:00Z",
-    "content": "Un nuevo ataque al servicio iCloud de Apple podría poner en riesgo tus activos digitales. Según un reciente comunicado de MetaMask, uno de los servicios de wallets de criptomonedas más conocidos, una… [+5219 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Hipertextual"
-    },
-    "author": "El Recomendador",
-    "title": "Los AirPods Pro con MagSafe vuelven a tener descuentazo en Amazon",
-    "description": "Amazon vuelve a las andadas con una nueva oferta de AirPods Pro tirando el precio de los auriculares más interesantes de Apple por los suelos. Con un descuento de 80 euros sobre el precio oficial, la oferta de los AirPods Pro vuelve a acercar su precio al mín…",
-    "url": "https://hipertextual.com/2022/04/oferta-de-airpods-pro",
-    "urlToImage": "https://hipertextual.com/wp-content/uploads/2019/10/hipertextual-sera-precio-airpods-pro-mexico-2019652875.jpg",
-    "publishedAt": "2022-04-19T08:42:05Z",
-    "content": "Amazon vuelve a las andadas con una nueva oferta de AirPods Pro tirando el precio de los auriculares más interesantes de Apple por los suelos. Con un descuento de 80 euros sobre el precio oficial, la… [+1852 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Slate Magazine"
-    },
-    "author": "Amanda Ripley",
-    "title": "How to Fight For Change Without Resorting to Name Calling",
-    "description": "You can disagree without tearing your community apart.",
-    "url": "https://slate.com/podcasts/how-to/2022/04/how-to-navigate-the-mascot-debate",
-    "urlToImage": "https://compote.slate.com/images/24f0fb5b-c980-4763-903b-69a7718aae71.jpeg?width=780&height=520&rect=1560x1040&offset=0x0",
-    "publishedAt": "2022-04-19T10:00:00Z",
-    "content": "The town of Dartmouth, Massachusetts is in the middle of a mascot debate thats escalated quickly. Our listener Keith grew up there and his kids attend the high school in question. Hes been vocal abou… [+944 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Xataka.com"
-    },
-    "author": "Enrique Pérez",
-    "title": "B&O Beoplay EX: los nuevos TWS de Bang & Olufsen se pasan al diseño de los AirPods para aspirar a superarlos",
-    "description": "Bang & Olufsen presenta sus auriculares completamente inalámbricos más completos hasta la fecha. La evolución de los Beoplay EQ llegan con un cambio de diseño respecto a lo que habíamos visto en la marca danesa. B&O dice adiós a su diseño circular de tipo bot…",
-    "url": "https://www.xataka.com/audio/bang-olufsen-beoplay-ex-caracteristicas-precio-ficha-tecnica",
-    "urlToImage": "https://i.blogs.es/af97bd/b-o-beoplay-ex-3/840_560.jpg",
-    "publishedAt": "2022-04-19T09:30:11Z",
-    "content": "Bang &amp; Olufsen presenta sus auriculares completamente inalámbricos más completos hasta la fecha. La evolución de los Beoplay EQ llegan con un cambio de diseño respecto a lo que habíamos visto en … [+3438 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "heise online"
-    },
-    "author": "Leo Becker",
-    "title": "heise-Angebot: Webinar: Was Apple Business Essentials für Unternehmen bringt",
-    "description": "Der Abodienst kombiniert Geräteverwaltung, Cloud-Speicherplatz und Support. Das Live-Webinar macht Firmen mit den Details des neuen Apple-Dienstes vertraut.",
-    "url": "https://www.heise.de/news/Webinar-Was-Apple-Business-Essentials-fuer-Unternehmen-bringt-6668862.html",
-    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/4/5/0/9/7/7/Apple_Business_Essentials-Ticker-Header-16-9-d0913cfbba08e987.jpg",
-    "publishedAt": "2022-04-19T06:00:00Z",
-    "content": "Die \"Apple Business Essentials\" stehen vor der Tür. Mit einem Abo-Service steigt Apple umfassender in den Unternehmensmarkt ein: Der neue Dienst kombiniert zentrale Funktionen einer Geräteverwaltung … [+1608 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "heise online"
-    },
-    "author": "Nico Jurran",
-    "title": "heise+ | Mediacenter-App Infuse 7 im Test: Mit Apple TV 4K Videos vom NAS abspielen",
-    "description": "Das Apple TV 4K ist eine reine Streaming-Box und spielt von Haus aus keine Videos vom heimischen NAS ab. Mit der Mediacenter-App Infuse 7 gelingt das trotzdem.",
-    "url": "https://www.heise.de/tests/Mediacenter-App-Infuse-7-im-Test-Mit-Apple-TV-4K-Videos-vom-NAS-abspielen-6671165.html",
-    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/4/5/2/2/1/3/aufmacher-29f5a722dfd2917b.jpg",
-    "publishedAt": "2022-04-19T06:00:00Z",
-    "content": "Inhaltsverzeichnis\r\nApple TV 4K fällt im Vergleich zu Streamingplayern wie Amazon Fire TV und Google Chromecast in einem Punkt deutlich zurück: als Medienplayer für Inhalte von einem NAS. Apples Box … [+1392 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "heise online"
-    },
-    "author": "Niklas Dierking, Jan Mahn",
-    "title": "Sicherheit fürs Anmelden: Was bei Kennwörtern, FIDO2 und TOTP zu beachten ist",
-    "description": "In der Theorie sind zweite Faktoren einfach. In der praktischen Umsetzung tauchen aber diverse Fragen auf – die häufigsten haben wir zusammengetragen.",
-    "url": "https://www.heise.de/ratgeber/FAQ-Kennwoerter-FIDO2-und-TOTP-6660829.html",
-    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/4/4/6/4/6/4/shutterstock_1917956951-a545f0b7eae7f88e.jpg",
-    "publishedAt": "2022-04-19T06:11:00Z",
-    "content": "Zwei-Faktor-Authentifizierung (2FA) ist eine wichtige und sinnvolle Sicherheitsfunktion für die Anmeldung an Accounts und Diensten: Zusätzlich zum Kennwort in Kopf oder Passwortmanager muss man beim … [+10097 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "9to5Mac"
-    },
-    "author": "Filipe Espósito",
-    "title": "Twitter will reportedly keep a record of tweets after the new Edit button is used",
-    "description": "Twitter earlier this month confirmed that it has been working on the long-awaited Edit button, which at first sounded like an April Fool’s joke. While details about this new feature are unclear, it seems that at least the social network will keep a record of …",
-    "url": "https://9to5mac.com/2022/04/18/twitter-will-reportedly-keep-a-record-of-tweets-after-the-new-edit-button-is-used/",
-    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/01/Twitter.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-    "publishedAt": "2022-04-19T00:07:45Z",
-    "content": "Twitter earlier this month confirmed that it has been working on the long-awaited Edit button, which at first sounded like an April Fool’s joke. While details about this new feature are unclear, it s… [+1654 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "AppleInsider"
-    },
-    "author": "news@appleinsider.com (Darryl Boxberger)",
-    "title": "Apple Maps adds biking directions to US Midwestern locations",
-    "description": "Apple has quietly rolled out Apple Maps cycling directions for parts of the Midwest, including major cities such as Chicago, Detroit, and Columbus.Introduced with iOS 14, cycling directions provide users with a wealth of information for their coming bike ride…",
-    "url": "https://appleinsider.com/articles/22/04/19/apple-maps-adds-biking-directions-to-us-midwestern-locations",
-    "urlToImage": "https://photos5.appleinsider.com/gallery/47972-93731-9E911E10-E201-4DAF-8FF9-07934228E08F-xl.jpg",
-    "publishedAt": "2022-04-19T00:22:09Z",
-    "content": "AppleInsider is supported by its audience and may earn commission as an Amazon Associate and affiliate partner on qualifying purchases. These affiliate partnerships do not influence our editorial con… [+1503 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "AppleInsider"
-    },
-    "author": "news@appleinsider.com (William Gallagher)",
-    "title": "Foxconn will double iPhone production in India to meet local demand",
-    "description": "Foxconn is said to be almost doubling its staff at the Chennai plant in order to produce iPhone models in greatly increased numbers for sale in India.As Foxconn restarts iPhone production in China following the Shenzhen lockdown, the company is also planning …",
-    "url": "https://appleinsider.com/articles/22/04/19/foxconn-will-double-iphone-production-in-india-to-meet-local-demand",
-    "urlToImage": "https://photos5.appleinsider.com/gallery/46187-89899-43631-84847-000-lead-Foxconn-xl-xl.jpg",
-    "publishedAt": "2022-04-19T10:04:29Z",
-    "content": "AppleInsider is supported by its audience and may earn commission as an Amazon Associate and affiliate partner on qualifying purchases. These affiliate partnerships do not influence our editorial con… [+1644 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Elespanol.com"
-    },
-    "author": null,
-    "title": "Google va a convertir Nearby Share en un verdadero Airdrop de Android",
-    "description": "Nearby Share podrá ser usado para enviar archivos entre dispositivos con la misma cuenta de Google de forma mucho más rápida y sencilla.",
-    "url": "https://www.elespanol.com/elandroidelibre/aplicaciones/20220419/google-convertir-nearby-share-verdadero-airdrop-android/666183449_0.html",
-    "urlToImage": "https://s1.eestatic.com/2022/03/11/elandroidelibre/aplicaciones/656444443_222599341_600x315.jpg",
-    "publishedAt": "2022-04-19T10:11:00Z",
-    "content": "Noticias relacionadas\r\nLos ecosistemas de Android y de iOS se parecen en muchas cosas, pero también tiene numerosas diferencias. Una de las más nombradas por los usuarios de iPhone es que en Android … [+1550 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Gizmodo.jp"
-    },
-    "author": "塚本直樹",
-    "title": "噂のApple Car、運転だけでなくエンタメまですべてをクルマがコントロールする設計に？",
-    "description": "アップルが開発していると噂のApple Carに採用されるOSは、運転だけでなくエンターテインメントまでのすべてを統括してコントロールできるものになりそう。",
-    "url": "https://www.gizmodo.jp/2022/04/os-in-apple-car-will-be-versatile.html",
-    "urlToImage": "https://assets.media-platform.com/gizmodo/dist/images/2022/04/19/shutterstock_1092829304-w960.jpg",
-    "publishedAt": "2022-04-19T02:30:00Z",
-    "content": "Apple CarAppleTesla\r\nApple CarOS\r\nDigiTimesApple CarApple MusicOS\r\niPhone\r\nApple Car\r\nSource: Apple Insider"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Gizmodo.jp"
-    },
-    "author": "塚本直樹",
-    "title": "あれ…次期MacBook Airってこんなデザインになるの？",
-    "description": "海外では、次期MacBook Airのレンダリングとされる画像が投稿されています。\nディスプレイにノッチが搭載され、一方で本体はエッジに向かって細くなる形状に。以前のリーク情報で噂されていた、MacBook ProやiPad Proのようなフラットデザインとは違います。",
-    "url": "https://www.gizmodo.jp/2022/04/macbook-air-design.html",
-    "urlToImage": "https://assets.media-platform.com/gizmodo/dist/images/2022/04/19/2022-macbook-air-13-inch-w960.png",
-    "publishedAt": "2022-04-19T05:00:00Z",
-    "content": "MacBook Air\r\nApple FirstMacBook AirMacBook ProiPad ProWccfTechMacBook Air\r\nMacBook AirM2MacBook ProMacBook Air\r\nSource: WccfTech"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "CNET"
-    },
-    "author": "Daniel Van Boom",
-    "title": "How An Apple iCloud Exploit Lost A Crypto Trader Over $650K - CNET",
-    "description": "One second, he gave who he thought was Apple a one-time Apple ID code. The next second, his crypto was gone.",
-    "url": "https://www.cnet.com/personal-finance/crypto/how-an-apple-icloud-exploit-lost-a-crypto-trader-over-650k/",
-    "urlToImage": "https://www.cnet.com/a/img/resize/f206eaf03156e9b7d07eb3bd9e64e456e11270dc/2022/04/19/4d88e9ea-f1fa-4a4b-ac18-862e36039776/unnamed-2.png?auto=webp&fit=crop&height=630&width=1200",
-    "publishedAt": "2022-04-19T04:32:00Z",
-    "content": "A Mutant Ape Yacht Club NFT stolen from Domenic Iacovone's wallet, worth around $80,000.\r\nOpenSea\r\nDomenic Iacovone recieved an unusual phone call from Apple on Friday night. He'd recieved several me… [+3862 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Journal du geek"
-    },
-    "author": "Thomas Estimbre",
-    "title": "Ces moules nous en disent plus sur le design de l’iPhone 14",
-    "description": "Le lancement de l’iPhone 14 se rapproche et les premières indiscrétions concernant le design font leur apparition. Des moules nous permettent d’en savoir plus sur la cuvée 2022 du smartphone d’Apple.\nCes moules nous en disent plus sur le design de l’iPhone 14",
-    "url": "https://www.journaldugeek.com/2022/04/19/ces-moules-nous-en-disent-plus-sur-le-design-de-liphone-14/",
-    "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/03/iphone-14-pillule.jpg",
-    "publishedAt": "2022-04-19T09:30:57Z",
-    "content": "Le lancement de liPhone 14 se rapproche et les premières indiscrétions concernant le design font leur apparition. Des moules nous permettent den savoir plus sur la cuvée 2022 du smartphone dApple.LiP… [+2726 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Applesfera.com"
-    },
-    "author": "David Bernal Raspall",
-    "title": "El Apple TV con HomePod y FaceTime incorporado sigue vivo y aparece de nuevo en los rumores",
-    "description": "Hace unos meses oímos rumores de la posibilidad de que Apple creara una especie de híbrido entre el HomePod y el Apple TV. Desconocemos si contaría con un diseño más de un HomePod con Apple TV incorporado o de un Apple TV con altavoces y cámara, pero lo que s…",
-    "url": "https://www.applesfera.com/rumores/apple-tv-homepod-facetime-incorporado-sigue-vivo-aparece-nuevo-rumores",
-    "urlToImage": "https://i.blogs.es/8a1e2c/hero/840_560.jpeg",
-    "publishedAt": "2022-04-19T06:45:00Z",
-    "content": "Hace unos meses oímos rumores de la posibilidad de que Apple creara una especie de híbrido entre el HomePod y el Apple TV. Desconocemos si contaría con un diseño más de un HomePod con Apple TV incorp… [+1410 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Applesfera.com"
-    },
-    "author": "David Bernal Raspall",
-    "title": "Cámaras y videollamadas. El gurú de los chips de Apple habla del tremendo esfuerzo para desarrollar el M1 en medio de la pandemia",
-    "description": "El vicepresidente de tecnologías de hardware en Apple, Johny Srouji, ha concedido una de sus pocas entrevistas al Wall Street Journal, para hablar de la transición a Apple silicon. Una transición que ha llevado al Mac mucho más allá de lo que permitían los pr…",
-    "url": "https://www.applesfera.com/entrevistas/camaras-videollamadas-guru-chips-apple-habla-tremendo-esfuerzo-para-desarrollar-m1-medio-pandemia",
-    "urlToImage": "https://i.blogs.es/f2aafd/hero/840_560.jpeg",
-    "publishedAt": "2022-04-19T08:59:13Z",
-    "content": "El vicepresidente de tecnologías de hardware en Apple, Johny Srouji, ha concedido una de sus pocas entrevistas al Wall Street Journal, para hablar de la transición a Apple silicon. Una transición que… [+3736 chars]"
-    }
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": "BBC Sport",
+            "title": "Shane Warne memorial - watch & follow updates",
+            "description": "Watch live coverage and follow text updates and tributes from the state memorial for Australian cricket legend Shane Warne at the Melbourne Cricket Ground.",
+            "url": "http://www.bbc.co.uk/sport/live/cricket/60916236",
+            "urlToImage": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.22.0/images/bbc-sport-logo.png",
+            "publishedAt": "2022-03-30T08:22:26.498888Z",
+            "content": "Former England bowler and BBC cricket presenter Isa Guha, who became a colleague of Warne's in the commentary box: \"It has been a strange few weeks - a lot of shock and then we did our own tribute at… [+396 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        }
     ]
-    }
+}
